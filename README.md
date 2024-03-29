@@ -1,7 +1,7 @@
 # Repositorio aula GitHub
 
 ## Primeira aula
-- Contexto 
+- AlteradOOOOOOOO 
 
 - Instalação e Configuração Inicial
     - `git config --global user.name` "meuUsuário" *configurar nome de usuário*
